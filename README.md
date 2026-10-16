@@ -101,6 +101,17 @@ Because ratio is a layout decision, not a style one: 1:1 for catalogue and icons
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [nano-banana-api-fr](https://github.com/f84q06w110/nano-banana-api-fr)
+- **Same model, other languages** — 9 more language builds: 中文 [nano-banana-api-cn](https://github.com/mpflv/nano-banana-api-cn) · Deutsch [nano-banana-api-de](https://github.com/uh6cob8op/nano-banana-api-de) · Español [nano-banana-api-es](https://github.com/gbm5mfl1/nano-banana-api-es) · Relay/gateway [nano-banana-api-gateway](https://github.com/gix2kust/nano-banana-api-gateway) · Bahasa [nano-banana-api-id](https://github.com/vsa185x9ecrd/nano-banana-api-id) · 日本語 [nano-banana-api-ja](https://github.com/e4ylndl3g-v/nano-banana-api-ja) · 한국어 [nano-banana-api-ko](https://github.com/l-2jb09sq/nano-banana-api-ko) · Português [nano-banana-api-pt](https://github.com/erujt71i1lx/nano-banana-api-pt) · Русский [nano-banana-api-ru](https://github.com/ggpbi40ss/nano-banana-api-ru)
+- **More models in this language** — [midjourney-api-fr](https://github.com/apimartt1q/midjourney-api-fr) · [gemini-2-5-flash-image-preview-api-fr](https://github.com/haftslut7ha/gemini-2-5-flash-image-preview-api-fr) · [gemini-3-1-flash-image-preview-api-fr](https://github.com/ok71ckyc/gemini-3-1-flash-image-preview-api-fr) · [nano-banana-2-api-fr](https://github.com/ms0p12t/nano-banana-2-api-fr) · [gemini-3-pro-image-preview-api-fr](https://github.com/w-44vba/gemini-3-pro-image-preview-api-fr) · [nano-banana-pro-api-fr](https://github.com/sgta2m/nano-banana-pro-api-fr)
+- **Topic hubs** — every build of this model, all languages: [nano-banana](https://github.com/topics/nano-banana) · [nano-banana-api](https://github.com/topics/nano-banana-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
